@@ -25,6 +25,7 @@
         "Posición 2",
         "Posición 3",
         "Posición 4"
+        
     ];
 
     echo "<br> Mi array tiene " .count ($miarray). " posiciones <br>";
